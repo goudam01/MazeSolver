@@ -7,7 +7,7 @@ The application provides two path options for user to choose. Based on the user'
 Used Java Swing and AWT to build the GUI of the application.
 
 
-## How to run it
+## How to use it
 
 This application provides two buttons for shortest path and longest path. Once you click either of these buttons the curresponding path will appear on the maze.
 
